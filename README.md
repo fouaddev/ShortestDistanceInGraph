@@ -2,7 +2,7 @@
 Simple Java application that builds a Graph with user input data. This is a class project. The graph nodes are cities that are connected to each others, and each city name is represented with its first letter. It uses two heuristic algorithms to navigate and find the shortest distance from any given city in the graph to the final destination city Z.
 
 # The program has four classes:
-  1. Project class has the algorithm method that navigates the Graph to find the shortest path to final destination City Z.
+  1. Project class has the algorithm method that navigates the Graph to find the shortest path to final destination Z.
   2. Graph class that creates the graph.
   3. City class to store information about a City.
   4. Edge class to store information about an edge.
