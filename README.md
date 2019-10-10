@@ -1,5 +1,5 @@
-# ShortestDistanceInGraph
-Simple Java application that builds a Graph with user input data. This is a class project. The graph nodes are cities that are connected to each others, and each city name is represented with its first letter. It uses two heuristic algorithms to navigate and find the shortest distance from any given city in the graph to the final destination city Z.
+# ShortestDistanceGraphAlgorithm
+This is a Java app that builds a Graph with user input data. This is a grad level class project. The graph nodes represent cities that are connected to one other, and each city name is represented with its first letter. It uses two heuristic algorithms to navigate and find the shortest distance from any given city in the graph to the final destination city Z.
 
 # Visual map of a sample input graph with nodes representing cities:
 
